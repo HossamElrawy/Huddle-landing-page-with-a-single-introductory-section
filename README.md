@@ -5,11 +5,6 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Customization](#customization)
-- [Responsive Design](#responsive-design)
-- [Accessibility](#accessibility)
-- [License](#license)
 
 ## Overview
 This is a responsive landing page for Huddle, a fictional community-building platform. The design features a clean layout with:
