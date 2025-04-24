@@ -1,7 +1,5 @@
 # Huddle Landing Page with Single Introductory Section
 
-![Huddle Landing Page Preview](./design/desktop-preview.jpg)
-
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
