@@ -116,12 +116,12 @@ main {
         height: auto;
         min-height: 100vh;
         background-color: hsl(257, 40%, 49%);
-        padding: 4.75rem 4.875rem 5rem 5rem; /* 76px 78px 80px 80px */
+        padding: 2.375rem 2.4375rem 2.5rem 2.5rem; /* 76px 78px 80px 80px */
     }
 
     .logo-sec {
-        margin-bottom: 8.75rem; /* 140px */
-        width: 15rem; /* 240px */
+        margin-bottom: 4.375rem; /* 140px */
+        width: 7.5rem; /* 240px */
     }
 
     main {
@@ -131,33 +131,39 @@ main {
     }
 
     .right-section {
-        padding: 8.75rem 0 0 0; /* 140px */
+        padding: 4.375rem 0 0 0; /* 140px */
         display: flex;
         flex-direction: column;
         align-items: center;
     }
 
     .main-heading {
-        margin-bottom: 3.5625rem; /* 57px */
-        font-size: 3rem; /* 48px */
+        margin-bottom: 1.78125rem; /* 57px */
+        font-size: 1.5rem; /* 48px */
     }
 
     .main-para {
-        margin-bottom: 3.25rem; /* 52px */
-        font-size: 1.9375rem; /* 31px */
+        margin-bottom: 1.625rem; /* 52px */
+        font-size: 0.96875rem; /* 31px */
     }
 
     .register-button {
-        padding: 2rem 9.625rem; /* 32px 154px */
-        margin-bottom: 8rem; /* 128px */
-        font-size: 1.125rem; /* 18px */
+        padding: 1rem 4.8125rem; /* 32px 154px */
+        margin-bottom: 4rem; /* 128px */
+        font-size: 0.5625rem; /* 18px */
         width: 100%;
-        max-width: 25rem; /* 400px */
+        max-width: 12.5rem; /* 400px */
     }
 
     .social-icons {
         position: static;
         justify-content: center;
-        margin-top: 2rem;
+        margin-top: 1rem;
+        gap: 0.6875rem; /* 22px */
+    }
+
+    .social-icon {
+        width: 1.5rem; /* 40px */
+        height: 1.5rem; /* 40px */
     }
 }
